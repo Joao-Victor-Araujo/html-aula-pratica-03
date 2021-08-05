@@ -1,0 +1,21 @@
+{
+  "name": "html-aula-pratica-03",
+  "version": "1.0.0",
+  "description": "npm03.08.21",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joao-Victor-Araujo/html-aula-pratica-03.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "JVAS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joao-Victor-Araujo/html-aula-pratica-03/issues"
+  },
+  "homepage": "https://github.com/Joao-Victor-Araujo/html-aula-pratica-03#readme"
+}
